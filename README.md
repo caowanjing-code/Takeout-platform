@@ -1,4 +1,4 @@
-# jingdong
+# how to run
 
 ## Project setup
 ```
